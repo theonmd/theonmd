@@ -1,5 +1,5 @@
 - 🇫🇷 Hi, I’m @theonmd
-- 🐻 Student at UC Berkeley in Operations Research
+- 🐻 Data Scietist at Ribbon Health
 - 📫 Reach out on LinkedIn https://www.linkedin.com/in/theophile-langanay/
 
 <!---
