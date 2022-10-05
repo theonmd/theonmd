@@ -1,5 +1,5 @@
 - 🇫🇷 Hi, I’m @theonmd
-- 🐻 Data Scietist at Ribbon Health
+- 🐻 Data Scientist at Ribbon Health
 - 📫 Reach out on LinkedIn https://www.linkedin.com/in/theophile-langanay/
 
 <!---
